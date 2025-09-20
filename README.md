@@ -1,4 +1,4 @@
-<h1 aling='center'> <black>Meu projeto da Disciplina de Database Modeling & SQL </black></h1>
+<h1 aling='center'> <black>Meu projeto da Disciplina de Database Modeling & SQL </black></h1><br>
 <black> Descrição do projeto: </black> Construção de uma base de dados a ser utilizado por uma faculdade.
 <black> Etapas: </black>
 >> Levantamento dos Requisitos: foi preciso fazer uma análise municiosa do cenário proposto, afim de que, fossem definidas as entidades e os atributos relacionados a essas entidades
